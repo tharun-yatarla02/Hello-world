@@ -9,4 +9,13 @@
 
 #heading{
     color: blue;
+
+}
+#roll-no{
+    color:aquamarine;
+}
+
+#cgpa{
+    color:green;
+    text-decoration: underline;
 }
