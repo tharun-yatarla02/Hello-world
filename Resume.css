@@ -1,9 +1,7 @@
 .my-body{
     align-items: center;
     align-content: center;
-    margin: auto;
     background-color: rgb(219, 219, 30);
-    display: table;
 }
 
 
@@ -18,4 +16,13 @@
 #cgpa{
     color:green;
     text-decoration: underline;
+}
+
+.navbar-cust{
+    background-color: brown;
+}
+
+.my-button{
+    color: black;
+    background-color: green;
 }
