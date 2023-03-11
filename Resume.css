@@ -1,0 +1,12 @@
+.my-body{
+    align-items: center;
+    align-content: center;
+    margin: auto;
+    background-color: rgb(219, 219, 30);
+    display: table;
+}
+
+
+#heading{
+    color: blue;
+}
